@@ -10,7 +10,7 @@ If you want to write a **NPM module** in ES2015 and publish to NPM with backward
 
 ## Basic Usage
 
-* Simply clone [this](https://github.com/kadirahq/npm-base) project.
+* Simply clone [this](https://github.com/fox-rck/base-npm-module.git) project.
 * Change the `package.json` as you want.
 * `lib/index.js` in your entry point.
 * Then publish to npm via `npm publish`.
