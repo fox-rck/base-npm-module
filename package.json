@@ -1,10 +1,10 @@
 {
-  "name": "npm-base",
+  "name": "blerpit-npm-base",
   "version": "1.0.0",
-  "description": "A base NPM package for writing a NPM package in ES2015",
+  "description": "A base NPM package for working with BlerpIt ecosystem",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/npm-base.git"
+    "url": "https://github.com/fox-rck/BlerpIt-npm-module.git"
   },
   "license": "MIT",
   "options": {
