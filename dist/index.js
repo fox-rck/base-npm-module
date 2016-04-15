@@ -19,6 +19,6 @@ var sum = exports.sum = function sum(a, b) {
 
 var subtract = exports.subtract = function subtract(a, b) {
   return new _promise2.default(function (resolve) {
-    return resolve(a + b);
+    return resolve(a - b);
   });
 };
